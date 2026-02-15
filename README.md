@@ -1,0 +1,2 @@
+# IntroML-2026
+# IntroML-2026 Introduction to Machine Learning for Engineers course  (CIVIL-226) taught at [EPFL](https://www.epfl.ch/en/) by [Prof. Alexandre Alahi](https://people.epfl.ch/alexandre.alahi?lang=en) and  [Prof. Olga Fink](https://people.epfl.ch/olga.fink?lang=en), Spring 2026
