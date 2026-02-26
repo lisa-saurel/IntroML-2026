@@ -7,8 +7,14 @@ This tutorial will walk you through the steps needed to setup a local Python env
 
 The first step is to install Anaconda Individual Edition (Python 3.12 version) by following the instructions on [this page](https://www.anaconda.com/products/individual).
 
+
 Anaconda is a Python distribution for scientific computing, which uses conda as a package and environment management system. If needed, Anaconda provides a graphical user interface to conda, called [Anaconda Navigator](https://docs.anaconda.com/anaconda/navigator/getting-started/). However, in this tutorial, we will only use the terminal.
 
+### Extra: On Mac
+> On Mac you can't click the install_script.sh like on Windows. Instead you have to run the script from the terminal and then follow the install instructions
+```sh bash
+sh install_script.sh
+```
 
 
 #### What is a virtual environment?
